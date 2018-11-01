@@ -1,3 +1,9 @@
 .drumButton {
     width: 100px;
 }
+
+.pianoButton {
+    width: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: rgb(247, 17, 17);
+}
